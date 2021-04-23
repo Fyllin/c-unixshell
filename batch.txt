@@ -1,0 +1,21 @@
+ls -l
+grep my midsummer.txt
+ls -l
+
+
+
+
+
+ls -l
+
+
+path gh dfsg sd ghj fggdfg
+
+
+./my-grep line secondfile.txt
+
+ls
+
+path 						/bin
+
+ls
